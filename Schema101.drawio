@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.10">
+  <diagram name="Page-1" id="zsPMJA2jM5UGm9Cd-OFp">
+    <mxGraphModel dx="1428" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R8fwzc4NF9d5jHF825gl-1" value="Команда 1&lt;div&gt;Команда 2&lt;/div&gt;&lt;div&gt;Стадион&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;ID главного арбитра&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R8fwzc4NF9d5jHF825gl-2" value="Инфо о матче" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R8fwzc4NF9d5jHF825gl-3" value="&lt;div&gt;ID главного арбитра&lt;/div&gt;&lt;div&gt;Страна&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;Ср кол-во ЖК за посл 10 матчей&lt;/div&gt;&lt;div&gt;&lt;div&gt;Ср кол-во ЖК за посл 100 матчей&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="600" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R8fwzc4NF9d5jHF825gl-4" value="Инфо об арбитре" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="570" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="R8fwzc4NF9d5jHF825gl-5" value="Добавить инфо по соотношению кол-ва фолов к ЖК - как еще один показатель" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="450" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="R8fwzc4NF9d5jHF825gl-6" value="&lt;div&gt;Команда 1&lt;/div&gt;&lt;div&gt;Команда 2&lt;/div&gt;&lt;div&gt;Дата матча&lt;/div&gt;&lt;div&gt;Арбитр&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;Кол-во ЖК&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="460" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="R8fwzc4NF9d5jHF825gl-7" value="Статистика прошлых игр по ЖК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="280" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
