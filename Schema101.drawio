@@ -4,26 +4,29 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R8fwzc4NF9d5jHF825gl-1" value="Команда 1&lt;div&gt;Команда 2&lt;/div&gt;&lt;div&gt;Стадион&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;ID главного арбитра&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-1" value="Команда 1&lt;div&gt;Команда 2&lt;/div&gt;&lt;div&gt;Стадион&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;ID главного арбитра&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="600" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R8fwzc4NF9d5jHF825gl-2" value="Инфо о матче" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-2" value="Инфо о матче" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="160" y="570" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R8fwzc4NF9d5jHF825gl-3" value="&lt;div&gt;ID главного арбитра&lt;/div&gt;&lt;div&gt;Страна&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;Ср кол-во ЖК за посл 10 матчей&lt;/div&gt;&lt;div&gt;&lt;div&gt;Ср кол-во ЖК за посл 100 матчей&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-3" value="&lt;div&gt;ID главного арбитра&lt;/div&gt;&lt;div&gt;Страна&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;Ср кол-во ЖК за посл 10 матчей&lt;/div&gt;&lt;div&gt;&lt;div&gt;Ср кол-во ЖК за посл 100 матчей&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="600" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R8fwzc4NF9d5jHF825gl-4" value="Инфо об арбитре" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-4" value="Инфо об арбитре" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="390" y="570" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R8fwzc4NF9d5jHF825gl-5" value="Добавить инфо по соотношению кол-ва фолов к ЖК - как еще один показатель" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-5" value="Добавить инфо по соотношению кол-ва фолов к ЖК - как еще один показатель" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="450" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="R8fwzc4NF9d5jHF825gl-6" value="&lt;div&gt;Команда 1&lt;/div&gt;&lt;div&gt;Команда 2&lt;/div&gt;&lt;div&gt;Дата матча&lt;/div&gt;&lt;div&gt;Арбитр&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;Кол-во ЖК&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-6" value="&lt;div&gt;Команда 1&lt;/div&gt;&lt;div&gt;Команда 2&lt;/div&gt;&lt;div&gt;Дата матча&lt;/div&gt;&lt;div&gt;Арбитр&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;&lt;div&gt;Кол-во ЖК&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="460" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="R8fwzc4NF9d5jHF825gl-7" value="Статистика прошлых игр по ЖК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-7" value="Статистика прошлых игр по ЖК" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="420" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IG9HiCnnSJ65W1JdzRAl-1" value="fix" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
