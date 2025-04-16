@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.12">
   <diagram name="Page-1" id="zsPMJA2jM5UGm9Cd-OFp">
-    <mxGraphModel dx="1053" dy="1707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1428" dy="1829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R8fwzc4NF9d5jHF825gl-1" value="&lt;div&gt;ID Матча (авт прост-е)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Дата матча&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ID Лиги&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(P Key)&lt;/span&gt;&lt;/div&gt;ID Команды 1&lt;div&gt;&lt;div&gt;ID Команды 2&lt;/div&gt;&lt;div&gt;ID главного арбитра&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(P Key)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Кол-во ЖК&lt;/div&gt;&lt;div&gt;Кол-во вторых ЖК&lt;/div&gt;&lt;div&gt;Кол-во КК&lt;/div&gt;&lt;div&gt;Кол-во фолов в матче&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-1" value="&lt;div&gt;ID Матча (авт прост-е)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Дата матча&lt;/span&gt;&lt;/div&gt;&lt;div&gt;ID Лиги&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(F Key)&lt;/span&gt;&lt;/div&gt;ID Команды 1&lt;div&gt;&lt;div&gt;ID Команды 2&lt;/div&gt;&lt;div&gt;ID главного арбитра&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(F Key)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;Кол-во ЖК&lt;/div&gt;&lt;div&gt;Кол-во вторых ЖК&lt;/div&gt;&lt;div&gt;Кол-во КК&lt;/div&gt;&lt;div&gt;Кол-во фолов в матче&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="410" y="355" width="160" height="195" as="geometry" />
         </mxCell>
         <mxCell id="R8fwzc4NF9d5jHF825gl-2" value="Матч" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="430" y="320" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="R8fwzc4NF9d5jHF825gl-3" value="&lt;div&gt;ID главного арбитра&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(F Key)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Фамилия-Имя главного арбитра&lt;/div&gt;&lt;div&gt;Страна происхождения&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="R8fwzc4NF9d5jHF825gl-3" value="&lt;div&gt;ID главного арбитра&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(P Key)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Фамилия-Имя главного арбитра&lt;/div&gt;&lt;div&gt;Страна происхождения&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="570" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="R8fwzc4NF9d5jHF825gl-4" value="Справочник арбитров" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="R8fwzc4NF9d5jHF825gl-5" value="Добавить инфо по соотношению кол-ва фолов к ЖК - как еще один показатель. Как в матче конкретном в разрезе судьи, так и в рамках обычных матчей команды" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1120" y="490" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YenB-Bxz-LfcBRluay5c-1" value="ID Лиги (F Key)&lt;div&gt;Название лиги&lt;/div&gt;&lt;div&gt;Страна&lt;/div&gt;&lt;div&gt;ID Команды&lt;/div&gt;&lt;div&gt;Название команды&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YenB-Bxz-LfcBRluay5c-1" value="ID Лиги (P Key)&lt;div&gt;Название лиги&lt;/div&gt;&lt;div&gt;Страна&lt;/div&gt;&lt;div&gt;ID Команды&lt;/div&gt;&lt;div&gt;Название команды&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="260" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="YenB-Bxz-LfcBRluay5c-2" value="Инфо о лигах" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
@@ -75,7 +75,7 @@
         <mxCell id="c-9kAA1nZPkHtdZaTcqD-15" value="Инфо о командах" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="940" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="52egx1bUjx6tZjFh9VGt-1" value="Будет журнал, который будет забирать события с сайта soccer365" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" vertex="1" parent="1">
+        <mxCell id="52egx1bUjx6tZjFh9VGt-1" value="Будет журнал, который будет забирать события с сайта soccer365" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1170" y="170" width="190" height="80" as="geometry" />
         </mxCell>
       </root>
