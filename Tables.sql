@@ -26,7 +26,7 @@ insert into Leagues values (1, 'Premier League', 'England', 1, 'Newcastle United
 
 insert into Leagues values (2, 'Premier League', 'England', 2, 'Manchester United');
 
-select * from Leagues
+select * from Leagues;
 
 
 
